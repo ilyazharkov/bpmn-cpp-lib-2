@@ -1,0 +1,787 @@
+ Том в устройстве D имеет метку DATA
+ Серийный номер тома: 6A34-1CA1
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib
+
+02.11.2025  17:23    <DIR>          .
+02.11.2025  17:23    <DIR>          ..
+02.11.2025  16:56    <DIR>          .vs
+31.10.2025  18:40               220 bpmn-cpp-lib.cpp
+31.10.2025  18:40               426 bpmn-cpp-lib.h
+02.11.2025  16:49             3 743 CMakeLists.txt
+31.10.2025  18:40             1 795 CMakePresets.json
+31.10.2025  18:51    <DIR>          examples
+31.10.2025  18:46    <DIR>          include
+02.11.2025  17:27                 0 map.txt
+31.10.2025  18:40    <DIR>          out
+31.10.2025  19:17    <DIR>          src
+31.10.2025  19:24    <DIR>          tests
+31.10.2025  19:13               560 vcpkg.json
+               6 файлов          6 744 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs
+
+02.11.2025  17:23    <DIR>          .
+02.11.2025  17:23    <DIR>          ..
+31.10.2025  18:40    <DIR>          bpmn-cpp-lib
+31.10.2025  18:40                 0 CMake Overview
+02.11.2025  16:49           102 400 cmake.db
+02.11.2025  16:30                44 ProjectSettings.json
+02.11.2025  17:23           217 088 slnx.sqlite
+01.11.2025  20:25               529 VSWorkspaceState.json
+               5 файлов        320 061 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+02.11.2025  17:26    <DIR>          FileContentIndex
+02.11.2025  16:42    <DIR>          v17
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\FileContentIndex
+
+02.11.2025  17:26    <DIR>          .
+02.11.2025  17:26    <DIR>          ..
+02.11.2025  16:40            33 667 079210d6-1a56-4058-9283-b6e9abaf9b3e.vsidx
+02.11.2025  17:26            25 911 080c0856-ef3a-45a2-a37f-ac9128afeccf.vsidx
+02.11.2025  16:56            32 419 8dffc254-4324-4f51-bf85-8ce18cde84c0.vsidx
+01.11.2025  20:25            28 533 a2cfcadd-de7a-42d1-9124-5b855c141f09.vsidx
+02.11.2025  16:49            29 358 b949d53e-9d11-487a-8854-527a049ae203.vsidx
+               5 файлов        149 888 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17
+
+02.11.2025  16:42    <DIR>          .
+02.11.2025  16:42    <DIR>          ..
+02.11.2025  16:57        55 017 472 Browse.VC.db
+02.11.2025  16:30            32 768 Browse.VC.db-shm
+02.11.2025  16:57                 0 Browse.VC.db-wal
+02.11.2025  16:38            28 416 DocumentLayout.backup.json
+02.11.2025  16:42            14 693 DocumentLayout.json
+31.10.2025  18:41    <DIR>          ipch
+01.11.2025  20:25           438 272 Solution.VC.db
+               6 файлов     55 531 621 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch
+
+31.10.2025  18:41    <DIR>          .
+31.10.2025  18:41    <DIR>          ..
+02.11.2025  16:49    <DIR>          AutoPCH
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+01.11.2025  12:44    <DIR>          1b2c4bff5c54eae8
+02.11.2025  16:48    <DIR>          23f7109119f15b07
+02.11.2025  16:33    <DIR>          2b4e94fa413caca5
+01.11.2025  12:44    <DIR>          31f5e95daddcea37
+02.11.2025  16:33    <DIR>          3465f6566825c55c
+31.10.2025  19:21    <DIR>          358927bed887586c
+31.10.2025  18:52    <DIR>          3b968820dd268edc
+01.11.2025  20:16    <DIR>          3db802f7d7e4b59c
+01.11.2025  16:53    <DIR>          3f6230d723a2db58
+02.11.2025  16:43    <DIR>          42987638bfe1be2c
+01.11.2025  11:28    <DIR>          47d0d75ca759ab9
+31.10.2025  18:49    <DIR>          4a702340d45b0008
+31.10.2025  18:45    <DIR>          4b8886f8c0475769
+02.11.2025  16:49    <DIR>          54a518cc9688ad10
+01.11.2025  12:44    <DIR>          56e230ccef31c2c5
+01.11.2025  20:16    <DIR>          61a370d0f1a0c2
+02.11.2025  16:48    <DIR>          709aab099af3bc80
+31.10.2025  18:49    <DIR>          81c3342cae96c49a
+31.10.2025  18:41    <DIR>          82fff13c5ac28124
+02.11.2025  16:38    <DIR>          87ae5246b3ebfe5c
+02.11.2025  16:40    <DIR>          8b46f051cc568a7a
+31.10.2025  18:52    <DIR>          936b9aaa22e513d
+01.11.2025  11:27    <DIR>          9a16e0da359847e5
+02.11.2025  16:49    <DIR>          aebd2e0b858035bf
+02.11.2025  16:43    <DIR>          b115dc6245379a02
+01.11.2025  11:33    <DIR>          bcdaf24d0e3a540f
+31.10.2025  19:20    <DIR>          c7d621dc8e25a7bf
+01.11.2025  12:44    <DIR>          cf66072be0b6854e
+01.11.2025  16:52    <DIR>          cfaf1e7b43e0d7f4
+02.11.2025  16:49    <DIR>          d78fa21df13ad5a1
+02.11.2025  16:47    <DIR>          dc14b3fe2321a3b7
+31.10.2025  18:48    <DIR>          e000e85e94a7240e
+02.11.2025  16:49    <DIR>          f20a64e977cfc977
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\1b2c4bff5c54eae8
+
+01.11.2025  12:44    <DIR>          .
+01.11.2025  12:44    <DIR>          ..
+01.11.2025  12:44       115 736 576 FORM.ipch
+               1 файлов    115 736 576 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\23f7109119f15b07
+
+02.11.2025  16:48    <DIR>          .
+02.11.2025  16:48    <DIR>          ..
+02.11.2025  16:48       103 153 664 ENGINE.ipch
+               1 файлов    103 153 664 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\2b4e94fa413caca5
+
+02.11.2025  16:33    <DIR>          .
+02.11.2025  16:33    <DIR>          ..
+02.11.2025  16:33       170 000 384 TEST_PARSER.ipch
+               1 файлов    170 000 384 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\31f5e95daddcea37
+
+01.11.2025  12:44    <DIR>          .
+01.11.2025  12:44    <DIR>          ..
+01.11.2025  12:44       140 378 112 PARSER.ipch
+               1 файлов    140 378 112 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\3465f6566825c55c
+
+02.11.2025  16:33    <DIR>          .
+02.11.2025  16:33    <DIR>          ..
+02.11.2025  16:33       140 378 112 PARSER.ipch
+               1 файлов    140 378 112 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\358927bed887586c
+
+31.10.2025  19:21    <DIR>          .
+31.10.2025  19:21    <DIR>          ..
+31.10.2025  19:21         2 949 120 TEST_ENGINE.ipch
+               1 файлов      2 949 120 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\3b968820dd268edc
+
+31.10.2025  18:52    <DIR>          .
+31.10.2025  18:52    <DIR>          ..
+31.10.2025  18:52        69 795 840 PARSER.ipch
+               1 файлов     69 795 840 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\3db802f7d7e4b59c
+
+01.11.2025  20:16    <DIR>          .
+01.11.2025  20:16    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\3f6230d723a2db58
+
+01.11.2025  16:53    <DIR>          .
+01.11.2025  16:53    <DIR>          ..
+01.11.2025  16:53       115 736 576 CONFIG.ipch
+               1 файлов    115 736 576 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\42987638bfe1be2c
+
+02.11.2025  16:43    <DIR>          .
+02.11.2025  16:43    <DIR>          ..
+02.11.2025  16:43       115 474 432 TEST_ENGINE.ipch
+               1 файлов    115 474 432 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\47d0d75ca759ab9
+
+01.11.2025  11:28    <DIR>          .
+01.11.2025  11:28    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\4a702340d45b0008
+
+31.10.2025  18:49    <DIR>          .
+31.10.2025  18:49    <DIR>          ..
+31.10.2025  18:49        88 211 456 EXECUTOR.ipch
+               1 файлов     88 211 456 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\4b8886f8c0475769
+
+31.10.2025  18:45    <DIR>          .
+31.10.2025  18:45    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\54a518cc9688ad10
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+02.11.2025  16:49       109 969 408 ENGINE.ipch
+               1 файлов    109 969 408 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\56e230ccef31c2c5
+
+01.11.2025  12:44    <DIR>          .
+01.11.2025  12:44    <DIR>          ..
+01.11.2025  12:44       140 378 112 PARSER.ipch
+               1 файлов    140 378 112 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\61a370d0f1a0c2
+
+01.11.2025  20:16    <DIR>          .
+01.11.2025  20:16    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\709aab099af3bc80
+
+02.11.2025  16:48    <DIR>          .
+02.11.2025  16:48    <DIR>          ..
+02.11.2025  16:48       152 436 736 ENGINE.ipch
+               1 файлов    152 436 736 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\81c3342cae96c49a
+
+31.10.2025  18:49    <DIR>          .
+31.10.2025  18:49    <DIR>          ..
+31.10.2025  18:49        39 387 136 CONFIG.ipch
+               1 файлов     39 387 136 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\82fff13c5ac28124
+
+31.10.2025  18:41    <DIR>          .
+31.10.2025  18:41    <DIR>          ..
+31.10.2025  18:42        26 279 936 CONFIG.ipch
+               1 файлов     26 279 936 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\87ae5246b3ebfe5c
+
+02.11.2025  16:38    <DIR>          .
+02.11.2025  16:38    <DIR>          ..
+02.11.2025  16:43        49 872 896 MAIN.ipch
+               1 файлов     49 872 896 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\8b46f051cc568a7a
+
+02.11.2025  16:40    <DIR>          .
+02.11.2025  16:40    <DIR>          ..
+02.11.2025  16:40       138 018 816 MODEL.ipch
+               1 файлов    138 018 816 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\936b9aaa22e513d
+
+31.10.2025  18:52    <DIR>          .
+31.10.2025  18:52    <DIR>          ..
+31.10.2025  18:52        38 338 560 MAIN.ipch
+               1 файлов     38 338 560 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\9a16e0da359847e5
+
+01.11.2025  11:27    <DIR>          .
+01.11.2025  11:27    <DIR>          ..
+01.11.2025  12:44       115 474 432 PROCESS.ipch
+               1 файлов    115 474 432 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\aebd2e0b858035bf
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+02.11.2025  16:49       153 223 168 ENGINE.ipch
+               1 файлов    153 223 168 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\b115dc6245379a02
+
+02.11.2025  16:43    <DIR>          .
+02.11.2025  16:43    <DIR>          ..
+02.11.2025  16:43       152 698 880 EXECUTOR.ipch
+               1 файлов    152 698 880 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\bcdaf24d0e3a540f
+
+01.11.2025  11:33    <DIR>          .
+01.11.2025  11:33    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\c7d621dc8e25a7bf
+
+31.10.2025  19:20    <DIR>          .
+31.10.2025  19:20    <DIR>          ..
+31.10.2025  19:20        86 114 304 TEST_EXECUTOR.ipch
+               1 файлов     86 114 304 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\cf66072be0b6854e
+
+01.11.2025  12:44    <DIR>          .
+01.11.2025  12:44    <DIR>          ..
+01.11.2025  12:44       152 174 592 ABSTRACTSERVICE.ipch
+               1 файлов    152 174 592 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\cfaf1e7b43e0d7f4
+
+01.11.2025  16:52    <DIR>          .
+01.11.2025  16:52    <DIR>          ..
+01.11.2025  17:00       115 474 432 ORM.ipch
+               1 файлов    115 474 432 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\d78fa21df13ad5a1
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+02.11.2025  16:49       152 698 880 ENGINE.ipch
+               1 файлов    152 698 880 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\dc14b3fe2321a3b7
+
+02.11.2025  16:47    <DIR>          .
+02.11.2025  16:47    <DIR>          ..
+02.11.2025  16:47       182 059 008 TEST_EXECUTOR.ipch
+               1 файлов    182 059 008 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\e000e85e94a7240e
+
+31.10.2025  18:48    <DIR>          .
+31.10.2025  18:48    <DIR>          ..
+31.10.2025  18:48        69 337 088 BPMN-CPP-LIB.ipch
+               1 файлов     69 337 088 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\.vs\bpmn-cpp-lib\v17\ipch\AutoPCH\f20a64e977cfc977
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\examples
+
+31.10.2025  18:51    <DIR>          .
+31.10.2025  18:51    <DIR>          ..
+31.10.2025  18:51    <DIR>          demo
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\examples\demo
+
+31.10.2025  18:51    <DIR>          .
+31.10.2025  18:51    <DIR>          ..
+31.10.2025  18:51             1 255 main.cpp
+               1 файлов          1 255 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\include
+
+31.10.2025  18:46    <DIR>          .
+31.10.2025  18:46    <DIR>          ..
+02.11.2025  16:48    <DIR>          bpmn
+01.11.2025  16:52    <DIR>          db
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\include\bpmn
+
+02.11.2025  16:48    <DIR>          .
+02.11.2025  16:48    <DIR>          ..
+07.06.2025  01:26             3 226 container.h
+02.11.2025  16:48             2 208 engine.h
+02.11.2025  16:42             1 003 execution_state_fwd.h
+02.11.2025  16:42             3 657 executor.h
+01.11.2025  11:34               479 flowAbstract.h
+02.11.2025  16:40             2 973 model.h
+01.11.2025  12:34             1 223 parser.h
+31.10.2025  18:46    <DIR>          services
+               7 файлов         14 769 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\include\bpmn\services
+
+31.10.2025  18:46    <DIR>          .
+31.10.2025  18:46    <DIR>          ..
+03.06.2025  23:18               448 abstractService.h
+03.06.2025  23:18               426 service.h
+03.06.2025  22:35             1 565 serviceFactory.h
+               3 файлов          2 439 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\include\db
+
+01.11.2025  16:52    <DIR>          .
+01.11.2025  16:52    <DIR>          ..
+01.11.2025  16:52             1 248 config.h
+31.10.2025  18:45    <DIR>          models
+31.10.2025  17:50             2 403 orm.h
+               2 файлов          3 651 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\include\db\models
+
+31.10.2025  18:45    <DIR>          .
+31.10.2025  18:45    <DIR>          ..
+31.10.2025  17:25             1 594 form.h
+07.06.2025  12:50             1 620 process.h
+               2 файлов          3 214 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+31.10.2025  18:40    <DIR>          build
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+02.11.2025  16:49    <DIR>          x64-debug
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+31.10.2025  18:40    <DIR>          .cmake
+02.11.2025  16:49            18 260 .ninja_deps
+02.11.2025  16:49               887 .ninja_log
+02.11.2025  16:49            52 882 build.ninja
+31.10.2025  19:14            29 577 CMakeCache.txt
+02.11.2025  16:49    <DIR>          CMakeFiles
+31.10.2025  19:24             3 839 cmake_install.cmake
+31.10.2025  19:24               550 CTestTestfile.cmake
+31.10.2025  18:40    <DIR>          Testing
+02.11.2025  16:49                12 VSInheritEnvironments.txt
+               7 файлов        106 007 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\.cmake
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+31.10.2025  18:40    <DIR>          api
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\.cmake\api
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+02.11.2025  16:49    <DIR>          v1
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\.cmake\api\v1
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+31.10.2025  18:40    <DIR>          query
+02.11.2025  16:49    <DIR>          reply
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\.cmake\api\v1\query
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+31.10.2025  18:40    <DIR>          client-MicrosoftVS
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\.cmake\api\v1\query\client-MicrosoftVS
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+31.10.2025  18:40               144 query.json
+               1 файлов            144 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\.cmake\api\v1\reply
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+31.10.2025  19:24            55 974 cache-v2-734847d4302ccc1fbbd6.json
+31.10.2025  19:24            33 207 cmakeFiles-v1-efdfb0ed1c6139e0c9c9.json
+02.11.2025  16:49             1 526 codemodel-v2-1684f3daece4d2f598d9.json
+31.10.2025  19:24             1 650 directory-.-Debug-2781cd2126223431e735.json
+02.11.2025  16:49             2 663 index-2025-11-02T13-49-01-0490.json
+02.11.2025  16:49             2 435 target-bpmn_demo-Debug-e88d2bcfedfe3a4891ee.json
+02.11.2025  16:49             5 530 target-bpmn_engine-Debug-76696e58d5a68b25216e.json
+02.11.2025  16:49             3 484 target-bpmn_engine_tests-Debug-2280932d34c9d4d28a5c.json
+31.10.2025  19:24               964 toolchains-v1-9d201c12b2880e763e72.json
+               9 файлов        107 433 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+31.10.2025  18:40    <DIR>          3.29.5-msvc4
+31.10.2025  18:40    <DIR>          bpmn-cpp-lib.dir
+02.11.2025  16:49    <DIR>          bpmn_demo.dir
+31.10.2025  19:24    <DIR>          bpmn_engine.dir
+02.11.2025  16:49    <DIR>          bpmn_engine_tests.dir
+02.11.2025  16:49                86 cmake.check_cache
+31.10.2025  18:56            28 508 CMakeConfigureLog.yaml
+31.10.2025  19:24    <DIR>          Export
+02.11.2025  16:49    <DIR>          pkgRedirects
+02.11.2025  16:49             5 448 rules.ninja
+31.10.2025  18:40    <DIR>          ShowIncludes
+02.11.2025  16:49               638 TargetDirectories.txt
+               4 файлов         34 680 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\3.29.5-msvc4
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+31.10.2025  18:40             3 166 CMakeCCompiler.cmake
+31.10.2025  18:40             6 180 CMakeCXXCompiler.cmake
+31.10.2025  18:40            53 248 CMakeDetermineCompilerABI_C.bin
+31.10.2025  18:40            53 248 CMakeDetermineCompilerABI_CXX.bin
+31.10.2025  18:40               276 CMakeRCCompiler.cmake
+31.10.2025  18:40               395 CMakeSystem.cmake
+31.10.2025  18:40    <DIR>          CompilerIdC
+31.10.2025  18:40    <DIR>          CompilerIdCXX
+               6 файлов        116 513 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\3.29.5-msvc4\CompilerIdC
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+31.10.2025  18:40            28 391 CMakeCCompilerId.c
+31.10.2025  18:40           109 568 CMakeCCompilerId.exe
+31.10.2025  18:40             1 955 CMakeCCompilerId.obj
+31.10.2025  18:40    <DIR>          tmp
+               3 файлов        139 914 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\3.29.5-msvc4\CompilerIdC\tmp
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\3.29.5-msvc4\CompilerIdCXX
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+31.10.2025  18:40            27 942 CMakeCXXCompilerId.cpp
+31.10.2025  18:40           109 568 CMakeCXXCompilerId.exe
+31.10.2025  18:40             2 022 CMakeCXXCompilerId.obj
+31.10.2025  18:40    <DIR>          tmp
+               3 файлов        139 532 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\3.29.5-msvc4\CompilerIdCXX\tmp
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn-cpp-lib.dir
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_demo.dir
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+31.10.2025  19:24    <DIR>          examples
+02.11.2025  16:49    <DIR>          src
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_demo.dir\examples
+
+31.10.2025  19:24    <DIR>          .
+31.10.2025  19:24    <DIR>          ..
+31.10.2025  19:24    <DIR>          demo
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_demo.dir\examples\demo
+
+31.10.2025  19:24    <DIR>          .
+31.10.2025  19:24    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_demo.dir\src
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+02.11.2025  16:49    <DIR>          bpmn
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_demo.dir\src\bpmn
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_engine.dir
+
+31.10.2025  19:24    <DIR>          .
+31.10.2025  19:24    <DIR>          ..
+31.10.2025  19:24    <DIR>          src
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_engine.dir\src
+
+31.10.2025  19:24    <DIR>          .
+31.10.2025  19:24    <DIR>          ..
+31.10.2025  19:24    <DIR>          bpmn
+01.11.2025  17:02    <DIR>          db
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_engine.dir\src\bpmn
+
+31.10.2025  19:24    <DIR>          .
+31.10.2025  19:24    <DIR>          ..
+01.11.2025  12:44         2 017 609 executor.cpp.obj
+31.10.2025  19:24           319 656 model.cpp.obj
+01.11.2025  12:04           659 778 parser.cpp.obj
+31.10.2025  19:24    <DIR>          services
+               3 файлов      2 997 043 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_engine.dir\src\bpmn\services
+
+31.10.2025  19:24    <DIR>          .
+31.10.2025  19:24    <DIR>          ..
+02.11.2025  16:38         3 698 853 abstractService.cpp.obj
+               1 файлов      3 698 853 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_engine.dir\src\db
+
+01.11.2025  17:02    <DIR>          .
+01.11.2025  17:02    <DIR>          ..
+01.11.2025  17:02         3 811 079 config.cpp.obj
+31.10.2025  19:24    <DIR>          models
+01.11.2025  17:02         1 147 928 orm.cpp.obj
+               2 файлов      4 959 007 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_engine.dir\src\db\models
+
+31.10.2025  19:24    <DIR>          .
+31.10.2025  19:24    <DIR>          ..
+01.11.2025  17:02           152 038 form.cpp.obj
+01.11.2025  17:02           301 062 process.cpp.obj
+               2 файлов        453 100 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_engine_tests.dir
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+02.11.2025  16:49    <DIR>          src
+31.10.2025  19:24    <DIR>          tests
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_engine_tests.dir\src
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+02.11.2025  16:49    <DIR>          bpmn
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_engine_tests.dir\src\bpmn
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_engine_tests.dir\tests
+
+31.10.2025  19:24    <DIR>          .
+31.10.2025  19:24    <DIR>          ..
+31.10.2025  19:24    <DIR>          integration
+02.11.2025  16:38    <DIR>          unit
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_engine_tests.dir\tests\integration
+
+31.10.2025  19:24    <DIR>          .
+31.10.2025  19:24    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\bpmn_engine_tests.dir\tests\unit
+
+02.11.2025  16:38    <DIR>          .
+02.11.2025  16:38    <DIR>          ..
+02.11.2025  16:38           500 370 test_parser.cpp.obj
+               1 файлов        500 370 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\Export
+
+31.10.2025  19:24    <DIR>          .
+31.10.2025  19:24    <DIR>          ..
+02.11.2025  16:49    <DIR>          c8ad083aa82c74f777159a691abaebc9
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\Export\c8ad083aa82c74f777159a691abaebc9
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+31.10.2025  19:24               931 bpmn_engine-config-debug.cmake
+31.10.2025  19:24             4 265 bpmn_engine-config.cmake
+               2 файлов          5 196 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\pkgRedirects
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\CMakeFiles\ShowIncludes
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+31.10.2025  18:40                 2 foo.h
+31.10.2025  18:40                33 main.c
+31.10.2025  18:40               638 main.obj
+               3 файлов            673 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\Testing
+
+31.10.2025  18:40    <DIR>          .
+31.10.2025  18:40    <DIR>          ..
+02.11.2025  16:49    <DIR>          Temporary
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\out\build\x64-debug\Testing\Temporary
+
+02.11.2025  16:49    <DIR>          .
+02.11.2025  16:49    <DIR>          ..
+02.11.2025  16:49               142 LastTest.log
+               1 файлов            142 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\src
+
+31.10.2025  19:17    <DIR>          .
+31.10.2025  19:17    <DIR>          ..
+02.11.2025  16:56    <DIR>          bpmn
+01.11.2025  17:02    <DIR>          db
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\src\bpmn
+
+02.11.2025  16:56    <DIR>          .
+02.11.2025  16:56    <DIR>          ..
+02.11.2025  16:56             9 833 engine.cpp
+02.11.2025  16:40            12 765 executor.cpp
+02.11.2025  16:40             6 190 model.cpp
+02.11.2025  16:38             7 803 parser.cpp
+31.10.2025  18:48    <DIR>          services
+               4 файлов         36 591 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\src\bpmn\services
+
+31.10.2025  18:48    <DIR>          .
+31.10.2025  18:48    <DIR>          ..
+03.06.2025  23:18             2 001 abstractService.cpp
+               1 файлов          2 001 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\src\db
+
+01.11.2025  17:02    <DIR>          .
+01.11.2025  17:02    <DIR>          ..
+01.11.2025  16:54             1 658 config.cpp
+31.10.2025  18:49    <DIR>          models
+01.11.2025  17:02            12 111 orm.cpp
+               2 файлов         13 769 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\src\db\models
+
+31.10.2025  18:49    <DIR>          .
+31.10.2025  18:49    <DIR>          ..
+31.10.2025  17:19             8 932 form.cpp
+31.10.2025  17:32             9 436 process.cpp
+               2 файлов         18 368 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\tests
+
+31.10.2025  19:24    <DIR>          .
+31.10.2025  19:24    <DIR>          ..
+31.10.2025  19:24    <DIR>          integration
+01.11.2025  20:25    <DIR>          unit
+               0 файлов              0 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\tests\integration
+
+31.10.2025  19:24    <DIR>          .
+31.10.2025  19:24    <DIR>          ..
+31.10.2025  19:21             5 432 test_engine.cpp
+               1 файлов          5 432 байт
+
+ Содержимое папки D:\MyERP\bpmn-cpp-lib\tests\unit
+
+01.11.2025  20:25    <DIR>          .
+01.11.2025  20:25    <DIR>          ..
+01.11.2025  20:25             2 773 test_executor.cpp
+01.11.2025  12:31               506 test_parser.cpp
+               2 файлов          3 279 байт
+
+     Всего файлов:
+             124 файлов  3 005 122 345 байт
+             281 папок  534 081 171 456 байт свободно

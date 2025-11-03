@@ -1,0 +1,26 @@
+{
+  "name": "bpmn-engine",
+  "version": "1.0.0",
+  "description": "C++ BPMN 2.0 Engine with PostgreSQL backend",
+  "homepage": "https://gitflic.ru/project/ilya-zharkov/bpmn-engine",
+  "dependencies": [
+    "libxml2",
+    "openssl",
+    "libpq",
+    "nlohmann-json",
+    "flatbuffers",
+    "boost-uuid",
+    "boost-algorithm",
+    "zlib"
+  ],
+  "features": {
+    "tests": {
+      "description": "Build tests",
+      "dependencies": [ "gtest" ]
+    },
+    "examples": {
+      "description": "Build examples",
+      "dependencies": []
+    }
+  }
+}
